@@ -150,6 +150,4 @@ Thanks to the tools and platforms that made this project possible:
 
 ```
 
----
-
 
