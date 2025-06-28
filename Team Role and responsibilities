@@ -1,0 +1,90 @@
+ 👨‍💻 Sankhadip Maji – Backend API Developer (Coding)
+
+Tasks:
+
+Set up FastAPI endpoints:
+
+/chatbot/ask – Accept user messages, return AI response.
+
+/user/auth – Basic login/signup logic using JWT.
+
+Connect FastAPI to MongoDB and PostgreSQL.
+
+Store incoming chat messages in the database.
+
+Deliverables:
+
+Functional API endpoints with dummy/test frontend
+
+Connected MongoDB/PostgreSQL for storing chats and user data
+
+ 🤖 Soumangi Chakraborty – AI Logic Integrator (Coding)
+
+Tasks:
+
+Finalize one AI model (OpenAI, Rasa, or Dialogflow).
+
+Write response logic for chatbot using that model.
+
+Make chatbot capable of fallback (e.g., "I don't understand").
+
+Deliverables:
+
+Chatbot returns real AI-based answers
+
+Logic to handle invalid or unclear questions
+
+📚 Shreeja Ganguli – Documentation & API Research (Non-Coding)
+
+Tasks:
+
+Write documentation for the created APIs:
+
+What endpoints exist, what data they need, what they return.
+
+Research authentication best practices (Jason Web Token , session tokens, etc.).
+
+Help test API endpoints using Postman.
+
+Deliverables:
+
+API Reference Guide (can be Google Doc)
+
+Auth flow notes with simple explanation for the team
+
+🧠 Ekarna Chakraborty  – Live Chat System Planner (Non-Coding)
+
+Tasks:
+
+Research how live chat with agents works (WebSocket or polling).
+
+Design agent routing logic (who handles which chat).
+
+Write basic logic rules for escalation from bot → agent.
+
+Deliverables:
+
+Live chat routing flowchart
+
+Rules/logic document for when chatbot should hand over to live agent
+
+ 🧾 Sampritee Manna – Database & User Role Manager (Non-Coding)
+
+Tasks:
+
+Finalize database schemas:
+
+Users, Chats, Chatbot Configs, Live Chat Requests
+
+Define user roles:
+
+Admin, Client, Agent, End-user
+
+Review security risks in chat storage (e.g., user privacy).
+
+Deliverables:
+
+Final version of database schema (ERD or diagram)
+
+Document describing user roles and data protection notes
+
