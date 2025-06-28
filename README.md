@@ -114,13 +114,19 @@ npm start                  # Opens at http://localhost:3000
 
 ---
 
-## 📌 Submitted To
+## 📌 Mentor 
 
 **🧑‍🏫 Suruchi Gagan**
 *Department of Computer Science, Internship Mentor*
 
 ---
 
+## Internship Period
+14th January 2025 – 30th April 2025
+## Submitted To
+IDEAS – Institute of Data Engineering, Analytics and Science Foundation, ISI, Kolkata
+
+---
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
